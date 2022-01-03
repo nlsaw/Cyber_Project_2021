@@ -1,4 +1,4 @@
-# Final_Project_Cyber_Bootcamp_2021
+# Cyber_Project_2021
 Final project in the cyber security bootcamp by University of Sydney partnered with Trilogy Education.
 This project is in three parts, with practical followed by reporting.
 
